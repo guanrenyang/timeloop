@@ -30,6 +30,7 @@
 #include <libconfig.h++>
 #include <yaml-cpp/yaml.h>
 #include <cassert>
+#include <cstdint>
 
 namespace config
 {
